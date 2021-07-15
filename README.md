@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1v4n-h4ck3r
 - 👀 I’m interested in programming and developing.
-- 🌱 I’m currently learning low level languages 
+- 🌱 I’m currently learning low level languages.
 
 
 <!---
